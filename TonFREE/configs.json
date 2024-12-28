@@ -2,5 +2,6 @@
   "limit": 100,
   "countdown": 300,
   "country_time": "en-US",
-  "refCode": "330sczvil0q"
+  "refCode": "330sczvil0q",
+  "delayEachAccount": [1, 81]
 }
