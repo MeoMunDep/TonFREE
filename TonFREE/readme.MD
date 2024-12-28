@@ -9,7 +9,7 @@
 - Group: [Link](t.me/KeoAirDropFreeNe)
 - Channel: [Link](t.me/KeoAirDropFreeNee)
 
-> Help me with your referral [Link]()
+> Help me with your referral [Link](https://t.me/tonfree_app_bot/play?startapp=330sczvil0q)
 
 ## 🚀 Getting Started
 
